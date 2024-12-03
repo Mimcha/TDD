@@ -17,4 +17,7 @@ public class PhoneBook {
         }
         return contacts.size(); // Возвращаем количество уникальных контактов
     }
+    public String findByNumber (String phone) {
+        return null;
+    }
 }
